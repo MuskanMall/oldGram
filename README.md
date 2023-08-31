@@ -1,4 +1,5 @@
-
+A version of instagram,, but with selfies of painters
+For mobile viewing
 
 Quick start:
 
